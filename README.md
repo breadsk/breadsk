@@ -72,7 +72,7 @@ My Current Workstation Specification </h2>
 ![Laptop](https://img.shields.io/badge/Windows-ASUS-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 <br>
 
-![CPU](https://img.shields.io/badge/Intel-Core_i3_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![CPU](https://img.shields.io/badge/Intel-Core_i5_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
  
   
 
@@ -119,47 +119,9 @@ My Current Workstation Specification </h2>
 
 
 
-<br> <br>
-🌟 STAR THE REPOS IF YOU LIKE 🌟
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IsratIJK" alt="IsratIJK" /></p>
-
-</div>
-
-
-
-
-
-
-
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-- :snowflake: If you want to check my profile of CP related various Online Judges, then: <br>
-:star: [Codeforces](https://codeforces.com/profile/IsratIJK) <br>
-:star: [Toph](https://toph.co/u/IsratIJK) <br>
-:star: [HackerRank](https://www.hackerrank.com/IsratIJK) <br>
-:star: [URI](https://www.urionlinejudge.com.br/judge/en/profile/436965) <br>
-:star: [Dimik OJ](https://dimikoj.com/users/6472/IsratIJK) <br>
-:star: [CodeMarshal](https://algo.codemarshal.org/users/IsratIJK) <br>
-<i>Many more are coming soon...</i> :cupid:
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<br><br>
-
-
-<div align="center">
-  
-
-![IsratIJK's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IsratIJK&layout=compact&theme=radical)
-
-
-</div>
 
 
 
 ----------
-Credit: [IsratIJK](https://github.com/IsratIJK)
+Credit: [bredsk](https://github.com/breadsk)
 Last Edited on: 13/06/2024
