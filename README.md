@@ -1,7 +1,7 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED8B00&width=435&lines=Hola+chicos...;Soy+Nicol%C3%A1s+C%C3%A1ceres;Ingeniero+y+Docente;Arquitectura+en+Java+y+Kotlin" alt="Typing SVG" />
 
 ### 👨‍🏫 Nicolás Cáceres Latorre
-**Docente de Programación | Ingeniero en Informática | Backend Developer**
+**Docente de Programación | Ingeniero en Informática | Fullstack Developer**
 
 ---
 
@@ -27,20 +27,20 @@
 *(Si no ves las imágenes abajo, asegúrate de haber cambiado 'TU_USUARIO' por tu nombre real de GitHub en el código)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Nicolás" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=breadsk&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Nicolás" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breadsk&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" width="48%" />
 </p>
 
 #### 📈 Gráfico de Contribuciones Semanales
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=breadsk&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/breadsk/breadsk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
