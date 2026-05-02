@@ -28,9 +28,9 @@
 
 ### 📊 Estadísticas y Actividad
 
-![Estadísticas de Nicolás](https://github-readme-stats.vercel.app/api?username=breadsk&show_icons=true&theme=radical&hide_border=true)
+![Estadísticas](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=breadsk&theme=radical)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=breadsk&layout=compact&theme=radical&hide_border=true)
+![Lenguajes](https://github-profile-summary-cards.vercel.app/api/cards/langs?username=breadsk&theme=radical)
 
 #### 📈 Gráfico de Contribuciones Semanales
 <p align="center">
