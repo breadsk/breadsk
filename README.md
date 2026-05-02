@@ -52,7 +52,7 @@ Para darle un toque más visual y directo a tus alumnos y reclutadores, puedes u
 
 
 #### 📈 Gráfico de Contribuciones Semanales
-<div align="center">
+<div align="center" width="50%">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=breadsk&theme=react-dark&hide_border=true" width="50%" alt="Gráfico Semanal" />
 </div>
 
