@@ -12,8 +12,16 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+#### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+#### 🎮 Game Development
+![Godot 4](https://img.shields.io/badge/Godot_4-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 #### 🛠️ Herramientas y Arquitectura
 ![Microservices](https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge&logo=distribute&logoColor=white)
@@ -27,41 +35,4 @@
 
 ![Estadísticas](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=breadsk&theme=radical)
 
-### 💻 Distribución de Tecnologías
-<div align="center">
-  <img src="https://quickchart.io/chart?w=550&h=250&c={type:'doughnut',data:{labels:['Java%20/%20Spring','Kotlin','Rust','Node.js%20/%20JS','Bases%20de%20Datos'],datasets:[{data:[40,15,20,15,10],backgroundColor:['%23ED8B00','%237F52FF','%23000000','%236DA55F','%23336699']}]}}" alt="Gráfico de lenguajes" />
-</div>
-
-#### 📊 Nivel de Dominio Práctico
-Para darle un toque más visual y directo a tus alumnos y reclutadores, puedes usar estas barras de progreso nativas (que nunca se caen):
-
-* **Arquitectura Backend (Java / Spring):** 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%
-* **Sistemas de Alto Rendimiento (Rust):** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
-* **Desarrollo Ágil (Kotlin):** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
-* **Ecosistema JS (Node / JavaScript):** 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%
-* **Modelado de Datos (MySQL):** 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%
-
-![Lenguajes](https://github-profile-summary-cards.vercel.app/api/cards/langs?username=breadsk&theme=radical)
-
-#### 📈 Gráfico de Contribuciones Semanales
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=breadsk&theme=react-dark&hide_border=true" width="100%" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/breadsk/breadsk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
-### 🏫 Área Académica
-Como docente, utilizo herramientas que facilitan el aprendizaje de la lógica pura antes de pasar al código complejo:
-* **Lógica de Programación:** PSeInt y FreeDFD.
-* **Metodología:** Casos de estudio prácticos y diagramación UML.
-* **Enfoque:** Transición suave de algoritmos básicos a arquitecturas distribuidas.
-
----
-*"Enseñar es dejar una huella en la eternidad."*
+### 💻 Distribución de
