@@ -24,11 +24,24 @@
 ---
 
 ### 📊 Estadísticas y Actividad
-*(Si no ves las imágenes abajo, asegúrate de haber cambiado 'TU_USUARIO' por tu nombre real de GitHub en el código)*
 
 ### 📊 Estadísticas y Actividad
 
 ![Estadísticas](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=breadsk&theme=radical)
+
+### 💻 Distribución de Tecnologías
+<div align="center">
+  <img src="https://quickchart.io/chart?w=550&h=250&c={type:'doughnut',data:{labels:['Java%20/%20Spring','Kotlin','Rust','Node.js%20/%20JS','Bases%20de%20Datos'],datasets:[{data:[40,15,20,15,10],backgroundColor:['%23ED8B00','%237F52FF','%23000000','%236DA55F','%23336699']}]}}" alt="Gráfico de lenguajes" />
+</div>
+
+#### 📊 Nivel de Dominio Práctico
+Para darle un toque más visual y directo a tus alumnos y reclutadores, puedes usar estas barras de progreso nativas (que nunca se caen):
+
+* **Arquitectura Backend (Java / Spring):** 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%
+* **Sistemas de Alto Rendimiento (Rust):** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
+* **Desarrollo Ágil (Kotlin):** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
+* **Ecosistema JS (Node / JavaScript):** 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%
+* **Modelado de Datos (MySQL):** 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%
 
 ![Lenguajes](https://github-profile-summary-cards.vercel.app/api/cards/langs?username=breadsk&theme=radical)
 
