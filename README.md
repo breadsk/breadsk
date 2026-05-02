@@ -50,7 +50,6 @@ Para darle un toque más visual y directo a tus alumnos y reclutadores, puedes u
 * **Game Development (Godot 4):** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
 * **Modelado de Datos (MySQL):** 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%
 
-![Lenguajes](https://github-profile-summary-cards.vercel.app/api/cards/langs?username=breadsk&theme=radical)
 
 #### 📈 Gráfico de Contribuciones Semanales
 <div align="center">
@@ -68,7 +67,7 @@ Para darle un toque más visual y directo a tus alumnos y reclutadores, puedes u
 
 ### 🏫 Área Académica
 Como docente, utilizo herramientas que facilitan el aprendizaje de la lógica pura antes de pasar al código complejo:
-* **Lógica de Programación:** PSeInt y FreeDFD.
+* **Lógica de Programación:** PSeInt y FreeDFD , luego Python , Java ( intermedio y Spring Boot ) y Javascript para Front y Backend.
 * **Metodología:** Casos de estudio prácticos y diagramación UML.
 * **Enfoque:** Transición suave de algoritmos básicos a arquitecturas distribuidas.
 
