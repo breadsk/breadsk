@@ -41,7 +41,6 @@
 </div>
 
 #### 📊 Nivel de Dominio Práctico
-Para darle un toque más visual y directo a tus alumnos y reclutadores, puedes usar estas barras de progreso nativas (que nunca se caen):
 
 * **Arquitectura Backend (Java / Spring):** 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%
 * **Frontend (React / Angular / Next):** 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%
