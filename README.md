@@ -35,4 +35,42 @@
 
 ![Estadísticas](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=breadsk&theme=radical)
 
-### 💻 Distribución de
+### 💻 Distribución de Tecnologías
+<div align="center">
+  <img src="https://quickchart.io/chart?w=550&h=250&c={type:'doughnut',data:{labels:['Backend%20(Java/Rust)','Frontend%20(React/Angular)','Node.js','Godot%204','Bases%20de%20Datos'],datasets:[{data:[35,25,15,15,10],backgroundColor:['%23ED8B00','%2361DAFB','%236DA55F','%23478CBF','%23336699']}]}}" alt="Gráfico de lenguajes" />
+</div>
+
+#### 📊 Nivel de Dominio Práctico
+Para darle un toque más visual y directo a tus alumnos y reclutadores, puedes usar estas barras de progreso nativas (que nunca se caen):
+
+* **Arquitectura Backend (Java / Spring):** 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%
+* **Frontend (React / Angular / Next):** 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%
+* **Sistemas de Alto Rendimiento (Rust):** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
+* **Ecosistema JS (Node / JavaScript):** 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%
+* **Game Development (Godot 4):** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
+* **Modelado de Datos (MySQL):** 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%
+
+![Lenguajes](https://github-profile-summary-cards.vercel.app/api/cards/langs?username=breadsk&theme=radical)
+
+#### 📈 Gráfico de Contribuciones Semanales
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=breadsk&theme=react-dark&hide_border=true" width="100%" alt="Gráfico Semanal" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/breadsk/breadsk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+### 🏫 Área Académica
+Como docente, utilizo herramientas que facilitan el aprendizaje de la lógica pura antes de pasar al código complejo:
+* **Lógica de Programación:** PSeInt y FreeDFD.
+* **Metodología:** Casos de estudio prácticos y diagramación UML.
+* **Enfoque:** Transición suave de algoritmos básicos a arquitecturas distribuidas.
+
+---
+*"Enseñar es dejar una huella en la eternidad."*
