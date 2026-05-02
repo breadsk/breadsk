@@ -26,11 +26,15 @@
 ### 📊 Estadísticas y Actividad
 *(Si no ves las imágenes abajo, asegúrate de haber cambiado 'TU_USUARIO' por tu nombre real de GitHub en el código)*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=breadsk&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Nicolás" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breadsk&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=breadsk&show_icons=true&theme=radical&hide_border=true" height="165" alt="Estadísticas de Nicolás" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breadsk&layout=compact&theme=radical&hide_border=true" height="165" alt="Lenguajes más usados" />
+</div>
 
+#### 📈 Gráfico de Contribuciones Semanales
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=breadsk&theme=react-dark&hide_border=true" width="100%" alt="Actividad Semanal" />
+</div>
 #### 📈 Gráfico de Contribuciones Semanales
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=breadsk&theme=react-dark&hide_border=true" width="100%" />
