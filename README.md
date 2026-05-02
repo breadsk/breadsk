@@ -32,10 +32,6 @@
 </div>
 
 #### 📈 Gráfico de Contribuciones Semanales
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=breadsk&theme=react-dark&hide_border=true" width="100%" alt="Actividad Semanal" />
-</div>
-#### 📈 Gráfico de Contribuciones Semanales
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=breadsk&theme=react-dark&hide_border=true" width="100%" />
 </p>
