@@ -25,8 +25,6 @@
 
 ### 📊 Estadísticas y Actividad
 
-### 📊 Estadísticas y Actividad
-
 ![Estadísticas](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=breadsk&theme=radical)
 
 ### 💻 Distribución de Tecnologías
