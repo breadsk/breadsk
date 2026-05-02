@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED8B00&width=435&lines=Hola+chicos...;Soy+Nicol%C3%A1s+C%C3%A1ceres;Ingeniero+y+Docente;Arquitectura+en+Java+y+Kotlin" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED8B00&width=435&lines=Hola+chicos...;Soy+Nicol%C3%A1s+C%C3%A1ceres;Ingeniero+y+Docente;Arquitectura+en+Java+y+Javascript+Kotlin" alt="Typing SVG" />
 
 ### 👨‍🏫 Nicolás Cáceres Latorre
 **Docente de Programación | Ingeniero en Informática | Fullstack Developer**
