@@ -35,10 +35,6 @@
 
 ![Estadísticas](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=breadsk&theme=radical)
 
-### 💻 Distribución de Tecnologías
-<div align="center">
-  <img src="https://quickchart.io/chart?w=550&h=250&c={type:'doughnut',data:{labels:['Backend%20(Java/Rust)','Frontend%20(React/Angular)','Node.js','Godot%204','Bases%20de%20Datos'],datasets:[{data:[35,25,15,15,10],backgroundColor:['%23ED8B00','%2361DAFB','%236DA55F','%23478CBF','%23336699']}]}}" alt="Gráfico de lenguajes" />
-</div>
 
 #### 📊 Nivel de Dominio Práctico
 
